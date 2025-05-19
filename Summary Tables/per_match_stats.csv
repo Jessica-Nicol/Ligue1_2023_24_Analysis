@@ -1,0 +1,613 @@
+team,matchID,goals,shots,fouls,yellows,reds,match_outcome
+Nice,NICLIL,1,8,13,3,0,Draw
+Marseille,MARREI,2,14,7,1,0,Win
+"Paris SG",PARLOR,0,20,8,0,0,Draw
+Brest,BRELEN,3,15,13,2,0,Win
+Clermont,CLEMON,2,15,7,0,0,Loss
+Montpellier,"MONLE ",2,15,8,1,0,Draw
+Nantes,NANTOU,1,9,14,2,0,Loss
+Rennes,RENMET,5,29,7,0,0,Win
+Strasbourg,STRLYO,2,8,8,2,0,Win
+Metz,METMAR,2,10,15,3,1,Draw
+Lyon,LYOMON,1,7,20,4,1,Loss
+Toulouse,TOUPAR,1,8,8,0,0,Draw
+Lille,LILNAN,2,18,8,0,1,Win
+"Le Havre","LE BRE",1,18,18,0,0,Loss
+Lorient,LORNIC,1,9,8,1,0,Draw
+Reims,REICLE,2,8,9,0,0,Win
+Monaco,MONSTR,3,9,19,2,0,Win
+Lens,LENREN,1,15,15,2,0,Draw
+Nantes,NANMON,3,3,8,2,0,Draw
+Marseille,MARBRE,2,15,4,0,0,Win
+"Paris SG",PARLEN,3,17,8,0,0,Win
+Rennes,"RENLE ",2,22,5,1,0,Draw
+Clermont,CLEMET,0,16,8,1,0,Loss
+Montpellier,MONREI,1,19,9,1,0,Loss
+Strasbourg,STRTOU,2,11,16,1,0,Win
+Lorient,LORLIL,4,9,22,2,0,Win
+Nice,NICLYO,0,21,8,1,0,Draw
+Nantes,NANMAR,1,10,7,0,1,Draw
+Brest,BREREN,0,13,12,3,0,Draw
+Monaco,MONLEN,3,11,21,4,0,Win
+Toulouse,TOUCLE,2,9,19,1,0,Draw
+"Le Havre","LE LOR",3,17,10,0,0,Win
+Lille,LILMON,1,15,15,2,0,Win
+Metz,METREI,2,12,10,0,0,Draw
+Nice,NICSTR,2,16,7,2,0,Win
+Lyon,LYOPAR,1,19,9,2,0,Loss
+"Paris SG",PARNIC,2,12,8,2,0,Loss
+Rennes,RENLIL,2,7,11,1,0,Draw
+Lens,LENMET,0,31,12,1,0,Loss
+Lorient,LORMON,2,10,13,0,0,Draw
+Clermont,CLENAN,0,16,16,2,0,Loss
+Reims,REIBRE,1,13,7,2,0,Loss
+Strasbourg,STRMON,2,14,17,4,0,Draw
+Marseille,MARTOU,0,24,9,2,0,Draw
+Lyon,"LYOLE ",0,23,13,3,0,Draw
+Monaco,MONNIC,0,9,13,1,0,Loss
+Nantes,NANLOR,5,19,8,1,0,Win
+Brest,BRELYO,1,27,17,3,0,Win
+Metz,METSTR,0,13,16,2,0,Loss
+"Le Havre","LE CLE",2,9,15,2,0,Win
+Lens,LENTOU,2,27,16,2,0,Win
+Montpellier,MONREN,0,13,10,2,0,Draw
+"Paris SG",PARMAR,4,15,11,0,0,Win
+Lille,LILREI,1,14,4,1,0,Loss
+Strasbourg,STRLEN,0,8,16,2,0,Loss
+Clermont,CLEPAR,0,12,11,2,0,Draw
+Monaco,MONMAR,3,10,17,4,0,Win
+Reims,REILYO,2,8,19,2,0,Win
+"Le Havre","LE LIL",0,5,18,0,0,Loss
+Nice,NICBRE,0,12,13,1,0,Draw
+Toulouse,TOUMET,3,15,10,3,0,Win
+Lorient,LORMON,0,14,13,2,0,Loss
+Rennes,RENNAN,3,16,11,3,0,Win
+Strasbourg,STRNAN,1,11,15,4,0,Loss
+Metz,METNIC,0,10,9,0,0,Loss
+Reims,REIMON,1,11,10,0,0,Loss
+Marseille,"MARLE ",3,14,6,0,0,Win
+Brest,BRETOU,1,13,18,2,0,Draw
+Lyon,LYOLOR,3,9,22,0,0,Draw
+Lens,LENLIL,1,14,14,2,0,Draw
+Rennes,RENPAR,1,14,12,1,0,Loss
+"Le Havre","LE LEN",0,14,16,2,0,Draw
+"Paris SG",PARSTR,3,8,11,2,0,Win
+Nice,NICMAR,1,10,13,4,0,Win
+Lorient,LORREN,2,5,5,0,0,Win
+Lille,LILBRE,1,6,12,2,0,Win
+Nantes,NANMON,2,14,16,2,0,Win
+Toulouse,TOUREI,1,11,18,2,0,Draw
+Monaco,MONMET,2,27,12,1,0,Win
+Lyon,LYOCLE,1,25,16,4,0,Loss
+Clermont,CLENIC,0,8,14,0,0,Loss
+Reims,REILOR,1,12,16,1,0,Win
+Lens,LENNAN,4,11,12,1,0,Win
+Brest,BREPAR,2,20,14,3,0,Loss
+Lille,LILMON,2,7,17,1,0,Win
+Metz,"METLE ",0,9,13,2,0,Draw
+Montpellier,MONTOU,3,19,13,2,0,Win
+Rennes,RENSTR,1,20,14,2,0,Draw
+"Paris SG",PARMON,3,21,10,1,0,Win
+Lorient,LORLEN,0,7,10,3,0,Draw
+Marseille,MARLIL,0,8,10,2,0,Draw
+Lyon,LYOMET,1,15,16,1,0,Draw
+Nantes,NANREI,0,17,5,1,0,Loss
+Strasbourg,STRCLE,0,18,11,2,1,Draw
+Toulouse,"TOULE ",1,17,9,2,0,Loss
+Monaco,MONBRE,2,12,15,2,0,Win
+Nice,NICREN,2,16,7,0,1,Win
+Montpellier,MONNIC,0,9,11,0,0,Draw
+Reims,REIPAR,0,19,14,1,0,Loss
+"Le Havre","LE MON",0,9,10,2,0,Draw
+Clermont,CLELOR,1,17,15,3,0,Win
+Lille,LILTOU,1,13,12,3,0,Draw
+Metz,METNAN,3,9,7,0,0,Win
+Rennes,RENLYO,0,8,5,3,1,Loss
+Lens,LENMAR,1,14,19,2,0,Win
+"Paris SG",PARMON,5,16,9,0,0,Win
+Clermont,CLELEN,0,13,16,2,1,Loss
+Strasbourg,STRMAR,1,15,14,1,0,Draw
+Nice,NICTOU,1,8,9,0,0,Win
+Lorient,LORMET,2,11,10,2,0,Loss
+Montpellier,MONBRE,1,17,11,2,0,Loss
+Nantes,"NANLE ",0,19,10,1,0,Draw
+Rennes,RENREI,3,10,10,2,0,Win
+Lyon,LYOLIL,0,11,17,2,0,Loss
+Montpellier,MONCLE,1,32,23,3,0,Draw
+Reims,REISTR,2,13,7,1,0,Win
+Lens,LENLYO,3,10,11,2,1,Win
+Nantes,NANNIC,1,13,15,3,0,Win
+"Le Havre","LE PAR",0,22,11,2,0,Loss
+Brest,BRECLE,3,12,11,1,0,Win
+Monaco,MONMON,2,27,15,2,0,Win
+Toulouse,TOULOR,1,11,16,2,0,Draw
+Lille,LILMET,2,16,8,0,0,Win
+Marseille,MARREN,2,5,9,1,1,Win
+Marseille,MARLYO,3,12,14,1,0,Win
+Brest,BRESTR,1,13,11,1,0,Draw
+Montpellier,MONLEN,0,18,16,2,0,Draw
+Rennes,RENMON,1,15,9,3,0,Loss
+"Paris SG",PARNAN,2,16,9,1,0,Win
+Nice,NICREI,2,15,13,2,0,Win
+Clermont,CLELIL,0,16,18,2,0,Draw
+Metz,METBRE,0,6,14,3,0,Loss
+Strasbourg,"STRLE ",2,12,14,3,0,Win
+Lyon,LYOTOU,3,15,15,2,0,Win
+Lorient,LORMAR,2,15,17,5,0,Loss
+Monaco,MONLYO,0,19,13,1,0,Loss
+"Le Havre","LE NIC",3,9,13,3,1,Win
+Lens,LENREI,2,7,9,0,0,Win
+Nantes,NANBRE,0,12,15,1,0,Loss
+Lorient,LORSTR,1,7,14,3,0,Loss
+Metz,METMON,0,19,15,2,0,Loss
+Toulouse,TOUREN,0,15,17,3,0,Draw
+Marseille,MARCLE,2,15,12,0,0,Win
+Lille,LILPAR,1,15,9,1,0,Draw
+Brest,BRELOR,4,12,8,1,0,Win
+Clermont,CLEREN,1,14,8,0,1,Loss
+Lyon,LYONAN,1,8,8,1,1,Win
+Montpellier,MONMAR,1,12,21,2,0,Draw
+Nice,NICLEN,2,14,14,2,0,Win
+"Paris SG",PARMET,3,13,6,0,0,Win
+Reims,"REILE ",1,22,7,1,0,Win
+Strasbourg,STRLIL,2,9,19,1,0,Win
+Toulouse,TOUMON,1,20,17,2,0,Loss
+Marseille,MARSTR,1,8,11,3,0,Draw
+Monaco,MONREI,1,9,11,3,0,Loss
+Rennes,RENNIC,2,15,13,1,0,Win
+Lille,LILLOR,3,24,10,1,0,Win
+Brest,BREMON,2,26,6,1,0,Win
+Metz,METTOU,0,14,20,3,1,Loss
+Nantes,NANCLE,1,20,10,1,1,Loss
+"Le Havre","LE LYO",3,14,15,1,0,Win
+Lens,LENPAR,0,17,10,0,1,Loss
+Lyon,LYOREN,2,12,15,2,0,Loss
+Nice,NICMET,1,15,10,1,0,Win
+Marseille,MARMON,2,22,11,1,0,Draw
+Montpellier,MONLIL,0,12,13,4,0,Draw
+Clermont,CLESTR,1,14,12,1,0,Draw
+Lorient,"LORLE ",3,13,15,4,0,Draw
+Reims,REINAN,0,10,8,3,0,Draw
+Toulouse,TOULEN,0,13,11,3,0,Loss
+"Paris SG",PARBRE,2,10,12,5,1,Draw
+Strasbourg,STRPAR,1,20,12,3,0,Loss
+Rennes,RENMON,2,9,17,4,0,Win
+Nantes,NANLEN,0,7,16,2,0,Loss
+Monaco,"MONLE ",1,17,16,3,0,Draw
+Lille,LILCLE,4,23,8,0,0,Win
+Metz,METLOR,1,10,12,3,0,Loss
+Reims,REITOU,2,17,13,2,0,Loss
+Brest,BRENIC,0,17,12,3,0,Draw
+Lyon,LYOMAR,1,12,14,2,0,Win
+Marseille,MARMET,1,18,12,2,1,Draw
+Lens,LENSTR,3,10,14,2,0,Win
+"Paris SG",PARLIL,3,16,12,2,0,Win
+"Le Havre","LE REN",0,13,14,2,0,Loss
+Clermont,CLEBRE,1,7,12,2,1,Draw
+Lorient,LORREI,2,17,9,1,0,Win
+Toulouse,TOUNAN,1,16,10,2,0,Loss
+Montpellier,MONLYO,1,15,11,1,0,Loss
+Nice,NICMON,2,15,17,5,1,Loss
+Lyon,LYONIC,1,9,8,0,0,Win
+Lille,"LILLE ",3,17,11,2,0,Win
+Nantes,NANPAR,0,12,10,1,0,Loss
+Strasbourg,STRLOR,1,18,13,3,1,Loss
+Monaco,MONTOU,1,22,18,1,0,Loss
+Montpellier,MONMET,3,21,17,3,0,Win
+Rennes,RENCLE,3,16,9,1,0,Win
+Reims,REILEN,1,11,15,2,0,Draw
+Brest,BREMAR,1,15,14,3,1,Win
+Metz,METLYO,1,15,13,1,0,Loss
+Lorient,LORNAN,0,6,11,0,0,Loss
+Strasbourg,STRBRE,0,6,21,3,0,Loss
+Lens,LENMON,2,20,10,6,0,Loss
+"Le Havre","LE REI",1,18,11,3,0,Loss
+Nice,NICCLE,0,23,8,2,0,Draw
+Toulouse,TOULIL,3,14,20,2,0,Win
+"Paris SG",PARREN,1,15,13,5,0,Draw
+Marseille,MARMON,4,16,8,2,0,Win
+Monaco,MONPAR,0,14,10,0,0,Draw
+Reims,REILIL,0,8,12,3,0,Loss
+Clermont,CLEMAR,1,7,9,2,0,Loss
+Toulouse,TOUNIC,2,17,16,2,0,Win
+Brest,"BRELE ",1,8,21,4,0,Win
+Montpellier,MONSTR,2,21,12,1,0,Draw
+Nantes,NANMET,0,9,7,3,0,Loss
+Rennes,RENLOR,1,22,12,1,0,Loss
+Lyon,LYOLEN,0,13,5,0,1,Loss
+Nice,NICMON,1,19,13,1,0,Loss
+Lorient,LORLYO,0,9,10,0,0,Loss
+Lens,LENBRE,1,6,13,1,0,Win
+"Paris SG",PARREI,2,19,10,2,0,Draw
+"Le Havre","LE TOU",1,12,12,1,0,Win
+Metz,METCLE,1,11,10,1,0,Win
+Strasbourg,STRMON,0,8,9,1,0,Loss
+Lille,LILREN,2,15,17,5,0,Draw
+Marseille,MARNAN,2,12,11,2,0,Win
+Toulouse,TOULYO,2,13,18,2,0,Loss
+Nantes,NANSTR,1,11,16,2,0,Loss
+Lens,LENNIC,1,20,9,4,0,Loss
+Brest,BRELIL,1,16,9,3,0,Draw
+Clermont,"CLELE ",2,9,13,3,1,Win
+Monaco,MONLOR,2,23,21,3,1,Draw
+Reims,REIMET,2,17,17,4,0,Win
+Rennes,RENMAR,2,7,9,1,0,Win
+Montpellier,MONPAR,2,12,9,0,0,Loss
+Lille,LILLEN,2,15,13,3,0,Win
+Metz,METMON,2,13,8,0,0,Loss
+Lyon,LYOREI,1,16,7,2,0,Draw
+Lorient,LORBRE,0,11,10,1,0,Loss
+Clermont,CLETOU,0,15,15,3,0,Loss
+"Le Havre","LE MON",0,14,10,2,0,Loss
+Nice,NICNAN,1,12,7,2,0,Loss
+Strasbourg,STRREN,2,14,10,1,0,Win
+Marseille,MARPAR,0,22,10,0,0,Loss
+Lille,LILMAR,3,14,13,1,0,Win
+Lens,"LENLE ",1,18,13,2,0,Draw
+"Paris SG",PARCLE,1,23,11,1,0,Draw
+Brest,BREMET,4,24,11,0,0,Win
+Montpellier,MONLOR,2,13,11,3,0,Win
+Reims,REINIC,0,10,15,2,0,Draw
+Toulouse,TOUSTR,0,11,16,2,0,Draw
+Monaco,MONREN,1,16,16,3,1,Win
+Nantes,NANLYO,1,14,8,2,0,Loss
+Metz,METLEN,2,11,11,2,0,Win
+Strasbourg,STRREI,3,13,9,1,0,Win
+Rennes,RENTOU,1,19,20,3,0,Loss
+"Le Havre","LE NAN",0,10,14,3,0,Loss
+Clermont,CLEMON,1,10,12,1,0,Draw
+Lyon,LYOBRE,4,16,12,5,1,Win
+Nice,NICLOR,3,19,11,0,0,Win
+Nantes,NANREN,0,6,16,1,0,Loss
+Lens,LENCLE,1,17,17,1,0,Win
+"Le Havre","LE MET",0,16,9,2,0,Loss
+Lille,LILSTR,1,6,11,2,0,Win
+Reims,REIMON,1,22,15,3,0,Loss
+Brest,BREMON,0,12,8,5,0,Loss
+Toulouse,TOUMAR,2,10,11,1,0,Draw
+"Paris SG",PARLYO,4,14,9,0,0,Win
+Lorient,LORPAR,1,11,8,1,0,Loss
+Marseille,MARNIC,2,11,10,2,1,Draw
+Monaco,MONLIL,1,19,9,1,0,Win
+Montpellier,MONNAN,1,8,11,2,2,Draw
+"Paris SG","PARLE ",3,17,10,2,0,Draw
+Metz,METLIL,1,5,15,1,0,Loss
+Clermont,CLEREI,4,12,9,0,0,Win
+Lorient,LORTOU,1,15,14,1,0,Loss
+Strasbourg,STRNIC,1,13,11,2,0,Loss
+Rennes,RENBRE,4,21,14,4,0,Loss
+Lyon,LYOMON,3,15,15,1,0,Win
+Marseille,MARLEN,2,13,8,2,0,Win
+Toulouse,TOUMON,1,15,17,3,1,Loss
+Lens,LENLOR,2,18,10,1,0,Win
+"Le Havre","LE STR",3,15,6,3,0,Win
+Monaco,MONCLE,4,23,13,3,0,Win
+Metz,METREN,2,7,15,2,1,Loss
+Brest,BRENAN,0,9,6,3,0,Draw
+Lille,LILLYO,3,8,14,3,0,Loss
+Brest,BREREI,1,16,12,2,0,Draw
+Nice,"NICLE ",1,13,10,2,0,Win
+Clermont,CLELYO,0,18,8,1,0,Loss
+Marseille,MARLOR,3,13,9,3,0,Win
+Montpellier,MONMON,0,14,20,1,0,Loss
+Nantes,NANLIL,1,9,17,4,0,Loss
+"Paris SG",PARTOU,1,15,12,0,0,Loss
+Rennes,RENLEN,1,16,12,2,0,Draw
+Strasbourg,STRMET,2,10,10,2,0,Win
+Nice,NICPAR,1,12,13,1,1,Loss
+Reims,REIMAR,1,10,17,3,0,Win
+"Le Havre","LE MAR",1,13,11,1,0,Loss
+Lens,LENMON,2,27,10,0,0,Draw
+Lille,LILNIC,2,12,9,3,1,Draw
+Lorient,LORCLE,5,32,20,3,0,Win
+Lyon,LYOSTR,2,15,7,1,0,Win
+Metz,METPAR,0,10,6,2,0,Loss
+Monaco,MONNAN,4,10,14,1,0,Win
+Reims,REIREN,2,6,11,1,0,Win
+Toulouse,TOUBRE,0,8,12,1,0,Loss
+Lille,NICLIL,1,12,9,2,0,Draw
+Reims,MARREI,1,11,16,3,0,Loss
+Lorient,PARLOR,0,4,6,0,0,Draw
+Lens,BRELEN,2,10,15,3,1,Loss
+Monaco,CLEMON,4,14,16,4,0,Win
+"Le Havre","MONLE ",2,12,12,2,0,Draw
+Toulouse,NANTOU,2,9,14,2,0,Win
+Metz,RENMET,1,9,10,2,0,Loss
+Lyon,STRLYO,1,23,11,2,0,Loss
+Marseille,METMAR,2,22,9,2,0,Draw
+Montpellier,LYOMON,4,14,10,1,0,Win
+"Paris SG",TOUPAR,1,16,11,3,0,Draw
+Nantes,LILNAN,0,14,15,2,0,Loss
+Brest,"LE BRE",2,10,15,2,0,Win
+Nice,LORNIC,1,21,10,1,0,Draw
+Clermont,REICLE,0,11,6,0,0,Loss
+Strasbourg,MONSTR,0,4,16,1,0,Loss
+Rennes,LENREN,1,10,10,1,0,Draw
+Monaco,NANMON,3,27,7,2,0,Draw
+Brest,MARBRE,0,18,8,1,0,Loss
+Lens,PARLEN,1,12,16,5,0,Loss
+"Le Havre","RENLE ",2,7,7,2,1,Draw
+Metz,CLEMET,1,10,10,1,0,Win
+Reims,MONREI,3,12,19,1,0,Win
+Toulouse,STRTOU,0,7,17,3,0,Loss
+Lille,LORLIL,1,18,12,4,0,Loss
+Lyon,NICLYO,0,6,14,4,0,Draw
+Marseille,NANMAR,1,26,13,2,0,Draw
+Rennes,BREREN,0,6,12,1,0,Draw
+Lens,MONLEN,0,12,16,2,0,Loss
+Clermont,TOUCLE,2,15,17,3,0,Draw
+Lorient,"LE LOR",0,9,7,0,0,Loss
+Montpellier,LILMON,0,9,14,1,0,Loss
+Reims,METREI,2,12,17,4,0,Draw
+Strasbourg,NICSTR,0,4,12,1,0,Loss
+"Paris SG",LYOPAR,4,22,5,2,0,Win
+Nice,PARNIC,3,14,17,5,0,Win
+Lille,RENLIL,2,10,16,4,0,Draw
+Metz,LENMET,1,2,12,2,0,Win
+Monaco,LORMON,2,20,14,1,0,Draw
+Nantes,CLENAN,1,8,16,2,0,Win
+Brest,REIBRE,2,18,11,4,0,Win
+Montpellier,STRMON,2,11,17,6,0,Draw
+Toulouse,MARTOU,0,10,11,5,0,Draw
+"Le Havre","LYOLE ",0,7,12,2,0,Draw
+Nice,MONNIC,1,13,15,1,0,Win
+Lorient,NANLOR,3,10,17,3,0,Loss
+Lyon,BRELYO,0,6,16,1,0,Loss
+Strasbourg,METSTR,1,4,15,0,0,Win
+Clermont,"LE CLE",1,11,17,3,0,Loss
+Toulouse,LENTOU,1,7,15,1,0,Loss
+Rennes,MONREN,0,18,15,1,0,Draw
+Marseille,PARMAR,0,6,14,3,0,Loss
+Reims,LILREI,2,4,19,2,0,Win
+Lens,STRLEN,1,9,15,4,0,Win
+"Paris SG",CLEPAR,0,21,16,3,0,Draw
+Marseille,MONMAR,2,8,15,4,0,Loss
+Lyon,REILYO,0,11,14,2,0,Loss
+Lille,"LE LIL",2,16,6,0,0,Win
+Brest,NICBRE,0,7,9,3,0,Draw
+Metz,TOUMET,0,8,7,0,0,Loss
+Montpellier,LORMON,3,14,6,1,0,Win
+Nantes,RENNAN,1,10,17,6,1,Loss
+Nantes,STRNAN,2,16,12,0,0,Win
+Nice,METNIC,1,7,10,1,0,Win
+Monaco,REIMON,3,11,14,3,0,Win
+"Le Havre","MARLE ",0,7,16,3,1,Loss
+Toulouse,BRETOU,1,9,18,2,0,Draw
+Lorient,LYOLOR,3,6,10,0,0,Draw
+Lille,LENLIL,1,8,16,4,0,Draw
+"Paris SG",RENPAR,3,17,15,0,0,Win
+Lens,"LE LEN",0,13,9,3,0,Draw
+Strasbourg,PARSTR,0,7,10,0,0,Loss
+Marseille,NICMAR,0,9,6,3,1,Loss
+Rennes,LORREN,1,20,14,2,0,Loss
+Brest,LILBRE,0,9,13,3,0,Loss
+Montpellier,NANMON,0,11,13,1,0,Loss
+Reims,TOUREI,1,15,15,0,0,Draw
+Metz,MONMET,1,8,11,3,0,Loss
+Clermont,LYOCLE,2,12,12,6,0,Win
+Nice,CLENIC,1,11,12,2,0,Win
+Lorient,REILOR,0,9,7,3,0,Loss
+Nantes,LENNAN,0,11,17,2,0,Loss
+"Paris SG",BREPAR,3,17,10,4,0,Win
+Monaco,LILMON,0,16,13,2,0,Loss
+"Le Havre","METLE ",0,12,15,2,0,Draw
+Toulouse,MONTOU,0,16,15,3,0,Loss
+Strasbourg,RENSTR,1,11,16,2,0,Draw
+Montpellier,PARMON,0,7,13,0,0,Loss
+Lens,LORLEN,0,14,14,3,0,Draw
+Lille,MARLIL,0,10,12,3,0,Draw
+Metz,LYOMET,1,10,14,1,0,Draw
+Reims,NANREI,1,7,11,2,0,Win
+Clermont,STRCLE,0,10,5,0,0,Draw
+"Le Havre","TOULE ",2,15,12,2,0,Win
+Brest,MONBRE,0,15,11,4,1,Loss
+Rennes,NICREN,0,11,12,2,1,Loss
+Nice,MONNIC,0,15,15,4,0,Draw
+"Paris SG",REIPAR,3,14,6,0,0,Win
+Monaco,"LE MON",0,10,18,3,0,Draw
+Lorient,CLELOR,0,10,10,2,0,Loss
+Toulouse,LILTOU,1,2,16,4,0,Draw
+Nantes,METNAN,1,16,9,0,0,Loss
+Lyon,RENLYO,1,12,18,1,0,Win
+Marseille,LENMAR,0,8,15,2,0,Loss
+Monaco,PARMON,2,14,19,1,0,Loss
+Lens,CLELEN,3,16,17,3,1,Win
+Marseille,STRMAR,1,16,16,2,0,Draw
+Toulouse,NICTOU,0,19,19,4,0,Loss
+Metz,LORMET,3,14,17,1,0,Win
+Brest,MONBRE,3,17,18,2,0,Win
+"Le Havre","NANLE ",0,6,17,2,1,Draw
+Reims,RENREI,1,15,18,2,0,Loss
+Lille,LYOLIL,2,15,5,2,0,Win
+Clermont,MONCLE,1,5,14,4,0,Draw
+Strasbourg,REISTR,1,10,7,1,0,Loss
+Lyon,LENLYO,2,12,14,0,0,Loss
+Nice,NANNIC,0,13,18,0,0,Loss
+"Paris SG","LE PAR",2,9,9,1,1,Win
+Clermont,BRECLE,0,10,17,2,0,Loss
+Montpellier,MONMON,0,9,13,3,1,Loss
+Lorient,TOULOR,1,11,10,4,0,Draw
+Metz,LILMET,0,7,11,0,0,Loss
+Rennes,MARREN,0,10,15,3,1,Loss
+Lyon,MARLYO,0,6,11,2,0,Loss
+Strasbourg,BRESTR,1,9,18,0,0,Draw
+Lens,MONLEN,0,13,11,3,0,Draw
+Monaco,RENMON,2,12,22,6,1,Win
+Nantes,PARNAN,1,10,12,3,0,Loss
+Reims,NICREI,1,9,6,3,0,Loss
+Lille,CLELIL,0,12,9,2,0,Draw
+Brest,METBRE,1,4,16,2,0,Win
+"Le Havre","STRLE ",1,15,15,1,0,Loss
+Toulouse,LYOTOU,0,16,15,3,0,Loss
+Marseille,LORMAR,4,18,17,3,1,Win
+Lyon,MONLYO,1,5,12,2,0,Win
+Nice,"LE NIC",1,13,9,2,1,Loss
+Reims,LENREI,0,14,10,1,0,Loss
+Brest,NANBRE,2,14,8,3,0,Win
+Strasbourg,LORSTR,2,12,12,2,0,Win
+Montpellier,METMON,1,6,14,2,0,Win
+Rennes,TOUREN,0,11,14,2,0,Draw
+Clermont,MARCLE,1,5,14,3,0,Loss
+"Paris SG",LILPAR,1,10,19,1,0,Draw
+Lorient,BRELOR,0,7,17,2,0,Loss
+Rennes,CLEREN,3,25,11,3,0,Win
+Nantes,LYONAN,0,7,14,2,0,Loss
+Marseille,MONMAR,1,17,13,1,0,Draw
+Lens,NICLEN,0,10,11,2,0,Loss
+Metz,PARMET,1,3,9,1,0,Loss
+"Le Havre","REILE ",0,4,6,1,1,Loss
+Lille,STRLIL,1,9,10,2,0,Loss
+Monaco,TOUMON,2,12,10,3,1,Win
+Strasbourg,MARSTR,1,18,10,2,0,Draw
+Reims,MONREI,3,12,9,2,0,Win
+Nice,RENNIC,0,9,11,0,0,Loss
+Lorient,LILLOR,0,1,22,4,0,Loss
+Montpellier,BREMON,0,9,7,2,0,Loss
+Toulouse,METTOU,1,4,18,2,0,Win
+Clermont,NANCLE,2,15,5,1,0,Win
+Lyon,"LE LYO",1,9,4,0,2,Loss
+"Paris SG",LENPAR,2,15,8,1,0,Win
+Rennes,LYOREN,3,11,12,2,0,Win
+Metz,NICMET,0,2,13,1,0,Loss
+Monaco,MARMON,2,6,12,3,2,Draw
+Lille,MONLIL,0,12,16,3,1,Draw
+Strasbourg,CLESTR,1,6,16,3,0,Draw
+"Le Havre","LORLE ",3,14,21,4,0,Draw
+Nantes,REINAN,0,7,16,2,0,Draw
+Lens,TOULEN,2,13,14,3,0,Win
+Brest,PARBRE,2,9,10,3,0,Draw
+"Paris SG",STRPAR,2,9,13,1,0,Win
+Montpellier,RENMON,1,17,12,3,0,Loss
+Lens,NANLEN,1,12,11,2,0,Win
+"Le Havre","MONLE ",1,3,11,2,0,Draw
+Clermont,LILCLE,0,4,10,1,0,Loss
+Lorient,METLOR,2,12,13,1,0,Win
+Toulouse,REITOU,3,9,16,3,0,Win
+Nice,BRENIC,0,13,12,1,0,Draw
+Marseille,LYOMAR,0,8,10,1,0,Loss
+Metz,MARMET,1,7,16,0,0,Draw
+Strasbourg,LENSTR,1,19,14,1,0,Loss
+Lille,PARLIL,1,10,10,3,0,Loss
+Rennes,"LE REN",1,11,7,1,0,Win
+Brest,CLEBRE,1,15,13,4,1,Draw
+Reims,LORREI,0,23,14,1,0,Loss
+Nantes,TOUNAN,2,5,13,1,0,Win
+Lyon,MONLYO,2,19,11,2,0,Win
+Monaco,NICMON,3,9,14,4,0,Win
+Nice,LYONIC,0,20,12,1,0,Loss
+"Le Havre","LILLE ",0,6,17,3,0,Loss
+"Paris SG",NANPAR,2,12,12,0,0,Win
+Lorient,STRLOR,3,13,12,1,0,Win
+Toulouse,MONTOU,2,14,12,3,0,Win
+Metz,MONMET,0,14,13,3,0,Loss
+Clermont,RENCLE,1,14,10,0,1,Loss
+Lens,REILEN,1,9,9,2,0,Draw
+Marseille,BREMAR,0,9,9,1,0,Loss
+Lyon,METLYO,2,11,12,2,0,Win
+Nantes,LORNAN,1,7,11,2,0,Win
+Brest,STRBRE,3,15,10,0,0,Win
+Monaco,LENMON,3,15,13,3,0,Win
+Reims,"LE REI",2,16,13,3,1,Win
+Clermont,NICCLE,0,13,12,1,0,Draw
+Lille,TOULIL,1,12,10,0,0,Loss
+Rennes,PARREN,1,3,16,3,0,Draw
+Montpellier,MARMON,1,9,12,4,0,Loss
+"Paris SG",MONPAR,0,14,13,0,0,Draw
+Lille,REILIL,1,8,14,2,0,Win
+Marseille,CLEMAR,5,17,13,1,0,Win
+Nice,TOUNIC,1,9,10,2,0,Loss
+"Le Havre","BRELE ",0,11,15,1,0,Loss
+Strasbourg,MONSTR,2,12,17,3,0,Draw
+Metz,NANMET,2,13,11,2,0,Win
+Lorient,RENLOR,2,12,9,2,0,Win
+Lens,LYOLEN,3,18,15,2,0,Win
+Montpellier,NICMON,2,7,11,2,0,Win
+Lyon,LORLYO,2,13,7,0,0,Win
+Brest,LENBRE,0,9,10,2,0,Loss
+Reims,PARREI,2,8,12,2,0,Draw
+Toulouse,"LE TOU",0,5,17,1,0,Loss
+Clermont,METCLE,0,13,10,3,0,Loss
+Monaco,STRMON,1,17,15,3,0,Win
+Rennes,LILREN,2,11,20,2,0,Draw
+Nantes,MARNAN,0,10,16,3,0,Loss
+Lyon,TOULYO,3,18,12,2,0,Win
+Strasbourg,NANSTR,3,11,15,3,0,Win
+Nice,LENNIC,3,7,12,3,0,Win
+Lille,BRELIL,1,13,12,0,0,Draw
+"Le Havre","CLELE ",1,14,17,5,1,Loss
+Lorient,MONLOR,2,11,8,1,1,Draw
+Metz,REIMET,1,12,10,4,0,Loss
+Marseille,RENMAR,0,8,12,3,0,Loss
+"Paris SG",MONPAR,6,16,13,3,0,Win
+Lens,LILLEN,1,9,17,3,0,Loss
+Monaco,METMON,5,17,8,0,0,Win
+Reims,LYOREI,1,17,10,3,0,Draw
+Brest,LORBRE,1,10,18,3,1,Win
+Toulouse,CLETOU,3,11,12,1,0,Win
+Montpellier,"LE MON",2,14,12,2,0,Win
+Nantes,NICNAN,2,13,19,5,0,Win
+Rennes,STRREN,0,12,17,2,0,Loss
+"Paris SG",MARPAR,2,8,8,4,1,Win
+Marseille,LILMAR,1,13,18,6,0,Loss
+"Le Havre","LENLE ",1,11,10,5,0,Draw
+Clermont,PARCLE,1,6,7,0,0,Draw
+Metz,BREMET,3,8,17,1,0,Loss
+Lorient,MONLOR,0,19,18,6,0,Loss
+Nice,REINIC,0,18,15,1,0,Draw
+Strasbourg,TOUSTR,0,8,17,0,0,Draw
+Rennes,MONREN,0,12,17,1,1,Loss
+Lyon,NANLYO,3,19,14,2,0,Win
+Lens,METLEN,1,17,17,5,0,Loss
+Reims,STRREI,1,8,18,3,1,Loss
+Toulouse,RENTOU,2,10,18,3,0,Win
+Nantes,"LE NAN",1,12,12,2,0,Win
+Montpellier,CLEMON,1,14,14,1,0,Draw
+Brest,LYOBRE,3,22,7,5,1,Loss
+Lorient,NICLOR,0,9,7,2,0,Loss
+Rennes,NANREN,3,14,11,4,0,Win
+Clermont,LENCLE,0,8,17,4,0,Loss
+Metz,"LE MET",1,9,19,3,0,Win
+Strasbourg,LILSTR,0,8,19,3,0,Loss
+Montpellier,REIMON,2,12,10,3,0,Win
+Monaco,BREMON,2,8,9,2,2,Win
+Marseille,TOUMAR,2,11,13,2,0,Draw
+Lyon,PARLYO,1,16,10,0,0,Loss
+"Paris SG",LORPAR,4,15,7,1,0,Win
+Nice,MARNIC,2,10,14,3,0,Draw
+Lille,MONLIL,0,13,9,2,0,Loss
+Nantes,MONNAN,1,15,14,1,0,Draw
+"Le Havre","PARLE ",3,6,8,1,0,Draw
+Lille,METLIL,2,14,12,2,0,Win
+Reims,CLEREI,1,10,12,3,1,Loss
+Toulouse,LORTOU,2,14,17,3,0,Win
+Nice,STRNIC,3,8,14,3,0,Win
+Brest,RENBRE,5,10,15,1,0,Win
+Monaco,LYOMON,2,13,14,3,0,Loss
+Lens,MARLEN,1,18,12,2,0,Loss
+Montpellier,TOUMON,2,5,14,4,1,Win
+Lorient,LENLOR,0,11,14,2,0,Loss
+Strasbourg,"LE STR",1,5,13,1,0,Loss
+Clermont,MONCLE,1,9,12,1,0,Loss
+Rennes,METREN,3,21,14,3,0,Win
+Nantes,BRENAN,0,9,14,2,0,Draw
+Lyon,LILLYO,4,11,14,1,0,Win
+Reims,BREREI,1,8,12,3,0,Draw
+"Le Havre","NICLE ",0,12,9,0,0,Loss
+Lyon,CLELYO,1,6,12,2,0,Win
+Lorient,MARLOR,1,14,6,4,0,Loss
+Monaco,MONMON,2,19,10,1,0,Win
+Lille,NANLIL,2,12,7,2,0,Win
+Toulouse,PARTOU,3,18,8,0,0,Win
+Lens,RENLEN,1,8,14,3,0,Draw
+Metz,STRMET,1,11,10,2,0,Loss
+"Paris SG",NICPAR,2,11,10,3,0,Win
+Marseille,REIMAR,0,19,9,1,0,Loss
+Marseille,"LE MAR",2,22,11,0,0,Win
+Montpellier,LENMON,2,11,13,1,0,Draw
+Nice,LILNIC,2,10,9,3,0,Draw
+Clermont,LORCLE,0,9,8,3,0,Loss
+Strasbourg,LYOSTR,1,10,10,0,0,Loss
+"Paris SG",METPAR,2,20,9,1,0,Win
+Nantes,MONNAN,0,6,23,2,0,Loss
+Rennes,REIREN,1,15,17,1,0,Loss
+Brest,TOUBRE,3,12,17,2,0,Win
